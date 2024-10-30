@@ -25,6 +25,12 @@ const blogData = {
       preview: "React, meet OOJS.",
       minutes: 47,
     },
+    {
+      id: 4,
+      title: "React project",
+      preview: "Building a react project from scratch",
+      minutes: 35,
+    }
   ],
 };
 
